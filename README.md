@@ -1,4 +1,4 @@
 # python
 Python Basics </br>
 
-Probability and Statics
+Probability and Statics fomula
