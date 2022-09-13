@@ -1,3 +1,4 @@
 # python
 applying programming </br>
-algorithm
+algorithm </br>
+deep learning basic model
